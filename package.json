@@ -1,0 +1,19 @@
+{
+  "name": "eslint-plugin-import-bug",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint ."
+  },
+  "author": "Richard B. Kaufman-López <richardbkaufman@gmail.com> (http://richardbkaufman.org)",
+  "license": "MIT",
+  "dependencies": {
+    "babel-eslint": "^7.2.3",
+    "eslint": "^3.19.0",
+    "eslint-plugin-import": "^2.3.0",
+    "react-native-elements": "^0.12.2",
+    "react-native-swiper": "^1.5.4"
+  }
+}
